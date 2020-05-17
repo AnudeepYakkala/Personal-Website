@@ -1,0 +1,49 @@
+.card-deck {
+    padding-top: 1.5rem;
+    padding-left: 15%;
+    padding-right: 15%; 
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+    grid-gap: 1rem;
+  }
+  
+  .projects-color {
+    background-color: #ebebeb;
+    margin-top: -9.5px;
+  }
+  
+  .project-title { 
+    font-family: Arial; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 100; 
+    line-height: 14px;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 2.5rem;
+    font-weight: 600;
+  }
+
+  .card-img-top {
+      width: 100%;
+  }
+
+  .card {
+      background-color: #ffffff;
+  }
+
+  .card-text {
+      text-align: left;
+      margin-left: 1rem;
+      margin-right: 1rem;
+      margin-top: 1rem;
+      margin-bottom: 1.5rem;
+      font-family: "Roboto", sans-serif;
+      font-size: 14px;
+      font-style: normal;
+      line-height: 1.5;
+  }
+
+  
+  
