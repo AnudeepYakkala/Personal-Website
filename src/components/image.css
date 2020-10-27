@@ -5,5 +5,8 @@
   .image-container {
     background-color: #537483;
   }
-  
+
+  .image-size {
+    max-width: 100%;
+  }
   
